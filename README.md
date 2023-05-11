@@ -9,7 +9,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	<!-- - [Failures of non-repairable equipment](https://github.com/josedavid2101/Predictive_maintenance): A model to predict the expected life of non-repairable equipment using various statistical analysis tools. Using historical data to fit the model resulted in decreasing equipment maintenance expenses. -->
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
 <br>
-**[Images Synthesis using diffusion Generative Model](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model): Developed and implemented a Diffusive model to generate materials micrsotructure images. Using Pytorch, generated images are used to study materials design, improving materials simulations cost by 92%.
+Developed and implemented a Diffusive model to generate materials micrsotructure images. Using Pytorch, generated images are used to study materials design, improving materials simulations cost by 92%.
+
+[View in Github](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
 
 
 <br>
@@ -18,7 +20,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ## Solar Batery optimization
 
-	- [Solar Batery optimization](https://github.com/josedavid2101/Optimization_techniques): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+![](https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png)
+
+- [Solar Batery optimization](https://github.com/josedavid2101/Optimization_techniques): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 
 - ## Materials Design Video game Hypothesis testing
 
