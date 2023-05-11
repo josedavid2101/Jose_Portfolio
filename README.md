@@ -14,7 +14,8 @@ Developed and implemented a Diffusive model to generate materials micrsotructure
 [View in Github](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
 
 
-<br>
+<br>![Screenshot 2023-05-11 145159](https://github.com/josedavid2101/Jose_Portfolio/assets/8882222/c0db7295-2ca1-47c9-a4bb-20a0c3699061)
+
 <br>
 <br>
 
