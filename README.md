@@ -14,7 +14,7 @@ Developed and implemented a Diffusive model to generate materials micrsotructure
 [View in Github](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
 
 
-<br>![Screenshot 2023-05-11 145159](https://github.com/josedavid2101/Jose_Portfolio/assets/8882222/c0db7295-2ca1-47c9-a4bb-20a0c3699061)
+
 
 <br>
 <br>
@@ -27,6 +27,7 @@ Developed and implemented a Diffusive model to generate materials micrsotructure
 
 - ## Materials Design Video game Hypothesis testing
 
+![Screenshot 2023-05-11 145159](https://github.com/josedavid2101/Jose_Portfolio/assets/8882222/c0db7295-2ca1-47c9-a4bb-20a0c3699061)
 	- [Materials Design Video game Hypothesis testing](https://github.com/josedavid2101/Statistics_videogame/blob/main/README.md): In this project, I use a Materials Science video game to collect data to help build a model to perform Materials design. I tested different game modes (computer-only, human-only, and hybrid), and hypothesis testing was used to determine the most efficient way to generate good results..
 
 - ## Supply chain consulting project
