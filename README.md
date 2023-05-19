@@ -63,22 +63,23 @@ Implementation of an A/B test analysis to help a business make a data-driven dec
 
 _Keywords: Pandas, Folium, Seaborn and Matplotlib_
 
+<br>
+<br>
 
-
-- # Other Projects
-	- [Linear regression](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
-	- [Monte Carlo simulation to optimize Rastrigin function](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-	- [Gradient descent & quasi-Newton method to optimize Rosenbrock's function](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+# Other Projects
+- [Linear regression](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
+- [Monte Carlo simulation to optimize Rastrigin function](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+- [Gradient descent & quasi-Newton method to optimize Rosenbrock's function](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 		
 	_Tools: Pandas, Folium, Seaborn and Matplotlib_
 	
-- # Publications:
-	- [Influence of grain boundary energy anisotropy on the evolution of grain boundary network structure during 3D anisotropic grain growth](https://www.sciencedirect.com/science/article/abs/pii/S0927025622005900?dgcid=author). Computational Materials Science · Oct 1, 2022
-	- [Video modeling software to acquire the instant angular speed and acceleration of a rigid body by video](https://www.researchgate.net/publication/328585790_KINE-UIS_MODELAMIENTO_DE_VIDEO_PARA_LA_ADQUISICION_DE_LA_VELOCIDAD_Y_ACELERACION_ANGULAR_INSTANTANEA_DE_UN_SOLIDO_RIGIDO). Journal of advanced technologies (RCTA) 2(30) · Apr 1, 2018
+# Publications:
+- [Influence of grain boundary energy anisotropy on the evolution of grain boundary network structure during 3D anisotropic grain growth](https://www.sciencedirect.com/science/article/abs/pii/S0927025622005900?dgcid=author). Computational Materials Science · Oct 1, 2022
+- [Video modeling software to acquire the instant angular speed and acceleration of a rigid body by video](https://www.researchgate.net/publication/328585790_KINE-UIS_MODELAMIENTO_DE_VIDEO_PARA_LA_ADQUISICION_DE_LA_VELOCIDAD_Y_ACELERACION_ANGULAR_INSTANTANEA_DE_UN_SOLIDO_RIGIDO). Journal of advanced technologies (RCTA) 2(30) · Apr 1, 2018
 
-- # Licenses & certifications:
-	- Machine Learning Specialization. Coursera. [Show credential](https://www.coursera.org/account/accomplishments/specialization/certificate/E9RCPY55YPFJ).
-	- Google Data Analytics Certificate. Coursera. [Show credential](https://www.credly.com/badges/b66c7b3d-3ad1-40f7-8831-3b8ce77a6b01/linked_in_profile).
+# Licenses & certifications:
+- Machine Learning Specialization. Coursera. [Show credential](https://www.coursera.org/account/accomplishments/specialization/certificate/E9RCPY55YPFJ).
+- Google Data Analytics Certificate. Coursera. [Show credential](https://www.credly.com/badges/b66c7b3d-3ad1-40f7-8831-3b8ce77a6b01/linked_in_profile).
 
 
 <br>
