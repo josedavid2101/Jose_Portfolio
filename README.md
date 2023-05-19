@@ -1,4 +1,4 @@
-<h1 align="center"> Data Science Portfolio - Jose Nino</h1>
+<h1 align="center"> Data Science and Analytics Portfolio - Jose Nino</h1>
 
 Repository containing portfolio of data science projects completed by me for work, academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, and Matlab files.
 
@@ -8,70 +8,69 @@ Repository containing portfolio of data science projects completed by me for wor
 
 # Main Projects
 
-- ## [Images Synthesis using diffusion Generative Model](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
+- ## [Images Synthesis using diffusion Generative Model](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
 
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
 <br>
 Developed and implemented a Diffusive model to generate materials micrsotructure images. Using Pytorch, generated images are used to study materials design, improving materials simulations cost by 92%.
 
-[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
 
-_Keywords: Pandas, Folium, Seaborn and Matplotlib_
+[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
+
+_Keywords: Deep learning, PyTorch, Generative models, Materials design_
 
 
-- ## [Solar Batery optimization](https://github.com/josedavid2101/Optimization_techniques)
+- ## [Solar cell battery optimization](https://github.com/josedavid2101/Optimization_techniques)
 
-<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
-<br>
-Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/solar_battery.jpg"> 
 
-[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
+An optimal lithium-sulfur battery design for solar cell, drone, and cellphone applications is presented. The optimization improved the initial design by 146.93 Wh/L for the volumetric energy density case. For energy cost, it decreased total cost by 9.4% (731.36 $/kWh). For the solar cell application, optimal design values for cathode, separator, and anode thicknesses are 64.91 µm, 757.26 µm, and 51.92 µm, respectively. 
+[View project](https://github.com/josedavid2101/Optimization_techniques)
 
-_Keywords: Pandas, Folium, Seaborn and Matplotlib_
+_Keywords: Nonlinear Optimization, Lithium-sulfur battery, Matlab, Solar cell_
 
 
 - ## [Materials Design Video game Hypothesis testing](https://github.com/josedavid2101/Statistics_videogame/blob/main/README.md)
 
-<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
-<br>
-In this project, I use a Materials Science video game to collect data to help build a model to perform Materials design. I tested different game modes (computer-only, human-only, and hybrid), and hypothesis testing was used to determine the most efficient way to generate good results.
+<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/materials_videogame.jpg"> 
 
-[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
+In this project, I used a Materials Science video game to collect data to help build a model to perform Materials design. I tested different game modes, and hypothesis testing was used to determine the most efficient way to generate good results. As a result of our testing, we found that humans are more efficient than the currently used computer algorithms but cannot find as good solutions as computers can.
+[View project](https://github.com/josedavid2101/Statistics_videogame/blob/main/README.md)
 
-_Keywords: Pandas, Folium, Seaborn and Matplotlib_
+_Keywords: Hypothesis testing, Video game, Levene’s test, Non Parametric test, Materials design_
 
 
 - ## [Supply chain consulting project](https://github.com/josedavid2101/Supply_Chain_Data_Analysis)
 
-<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
+<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/total_cost.jpg"> 
 <br>
-Data analysis project working as a consultant. Data of daily orders of different clients was analyzed to make data-driven decisions on what machines to buy to fulfill daily orders optimally.  was analyzed to make data-driven decisions on what machines to buy to fulfill daily orders optimally.
+Real-world data of daily orders from different company clients were analyzed to make data-driven decisions on what machines to buy to fulfill daily orders optimally. After analyzing the data, the recommended approach decreases the production cost by 21% and reduces the downtime by 15%.
 
-[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
+[View project](https://github.com/josedavid2101/Supply_Chain_Data_Analysis)
 
-_Keywords: Pandas, Folium, Seaborn and Matplotlib_
+_Keywords: Exploratory data analysis, Mathematical finance, Supply chain, Real-world data_
 
 
 
-- ## [A/B testing](https://github.com/josedavid2101/AB_testing_Case_Study)
+- ## [Business decision with A/B test](https://github.com/josedavid2101/AB_testing_Case_Study)
 
-<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
+<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/AB_test.jpg"> 
 <br>
-Implementation of an A/B test analysis to help a business make a data-driven decision that increased profits by 2% using real-world data.
+Implementation of an A/B test analysis to help a business make a data-driven decision. Sales data from a retail company is analyzed, and an experiment is designed to determine if proposed changes will increase profits. The results show that the proposed change increases the profits by 2.3%.
 
-[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model)
+[View project](https://github.com/josedavid2101/AB_testing_Case_Study)
 
-_Keywords: Pandas, Folium, Seaborn and Matplotlib_
+_Keywords: Pandas, A/B test, Design of experiments, t-test, Statistical significance_
 
 <br>
 <br>
 
 # Other Projects
-- [Linear regression](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
-- [Monte Carlo simulation to optimize Rastrigin function](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-- [Gradient descent & quasi-Newton method to optimize Rosenbrock's function](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+- [Linear regression](https://github.com/josedavid2101/ML/blob/main/Linear_Regression/Linear%20Regression%20Project.ipynb): Regression analysis of Ecommerce company based in New York City that sells clothing online.
+- [Monte Carlo simulation to optimize Rastrigin function](https://github.com/josedavid2101/Rastrigin_function): Optimization of the Rastrigin function using simulate annealing.
+- [Gradient descent & quasi-Newton method to optimize Rosenbrock's function](https://github.com/josedavid2101/Optimization_Rosenbrock/tree/main): Optimization of the Rosenbrock's function using Gradient descent & quasi-Newton methods.
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Sklearn, Seaborn and Matplotlib_
 	
 # Publications:
 - [Influence of grain boundary energy anisotropy on the evolution of grain boundary network structure during 3D anisotropic grain growth](https://www.sciencedirect.com/science/article/abs/pii/S0927025622005900?dgcid=author). Computational Materials Science · Oct 1, 2022
