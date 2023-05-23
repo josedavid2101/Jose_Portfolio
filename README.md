@@ -1,6 +1,6 @@
 <h1 align="center"> Data Science and Analytics Portfolio - Jose Nino</h1>
 
-Repository containing portfolio of data science projects completed by me for work, academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, and Matlab files.
+Repository containing portfolio of data science, analytics and optimization projects completed by me for work, academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, and Matlab files.
 
 - **LinkedIn**: [linkedin.com/jose-nino-4101](https://www.linkedin.com/in/jose-nino-4101/)
 
@@ -51,7 +51,7 @@ Real-world data of daily orders from different company clients were analyzed to 
 _Keywords: Exploratory data analysis, Mathematical finance, Supply chain, Real-world data_
 
 
-
+<!--
 - ## [Business decision with A/B test](https://github.com/josedavid2101/AB_testing_Case_Study)
 
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/AB_test.jpg"> 
@@ -61,7 +61,7 @@ Implementation of an A/B test analysis to help a business make a data-driven dec
 [View project](https://github.com/josedavid2101/AB_testing_Case_Study)
 
 _Keywords: Pandas, A/B test, Design of experiments, t-test, Statistical significance_
-
+-->
 <br>
 <br>
 
