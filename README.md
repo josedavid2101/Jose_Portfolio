@@ -12,7 +12,7 @@ Repository containing portfolio of data science, analytics and optimization proj
 
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
 <br>
-Developed and implemented a Diffusive model to generate materials micrsotructure images. Using Pytorch, generated images are used to study materials design, improving materials simulations cost by 92%.
+Developed and implemented a Diffusive model to generate materials microstructure images. Using Pytorch, generated images are used to study materials design, improving materials simulations cost by 92%.
 
 
 [View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
