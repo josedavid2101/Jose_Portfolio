@@ -8,7 +8,7 @@ Repository containing portfolio of data science, analytics and optimization proj
 
 # Main Projects
 
-- ## [Images Synthesis using diffusion Generative Model](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
+- ## [Images Synthesis using diffusion Models](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
 
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
 <br>
