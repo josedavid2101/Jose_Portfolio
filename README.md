@@ -8,13 +8,15 @@ Repository containing portfolio of data science, analytics and optimization proj
 
 # Main Projects
 
-- ## [Images Synthesis using diffusion Models](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
+- ## [Advanced Diffusion Model for Image Generation and Materials Design](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
 
-<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/generated_mic.png"> 
-<br>
-Developed and implemented a Diffusive model to generate materials microstructure images. Using Pytorch, generated images are used to study materials design, improving materials simulations cost by 92%.
+<img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/diffusion.png"> 
 
+Left Image: "A photo of a dog with a backpack riding a bike. It is wearing sunglasses and a hat"
 
+Right image: "Image of the internal structure of a metal (nickel)"
+
+Both images were generated using state-of-the-art diffusion models. In this project, I implemented a diffusion model using Pytorch to generate images of the internal structure of different materials (like the right image!). These images are used to study materials design, reducing materials simulation costs by 92%.
 [View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
 
 _Keywords: Deep learning, PyTorch, Generative models, Materials design_
@@ -34,7 +36,7 @@ _Keywords: Nonlinear Optimization, Lithium-sulfur battery, Matlab, Solar cell_
 
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/materials_videogame.jpg"> 
 
-In this project, I used a Materials Science video game to collect data to help build a model to perform Materials design. I tested different game modes, and hypothesis testing was used to determine the most efficient way to generate good results. As a result of our testing, we found that humans are more efficient than the currently used computer algorithms but cannot find as good solutions as computers can.
+In this project, I used a Materials Science video game to collect data to help build a model to perform Materials design. I tested different game modes, and hypothesis testing was used to determine the most efficient way to generate good results. As a result of our testing, we found that humans are more efficient than the currently used computer algorithms but cannot find as good solutions as computers can. This innovative approach underscores the potential for unconventional data collection methodologies and explores the intersection of human ingenuity and computational prowess in the field of materials science.
 [View project](https://github.com/josedavid2101/Statistics_videogame/blob/main/README.md)
 
 _Keywords: Hypothesis testing, Video game, Levene’s test, Non Parametric test, Materials design_
