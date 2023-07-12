@@ -5,10 +5,9 @@ Repository containing portfolio of data science, analytics and optimization proj
 - **LinkedIn**: [linkedin.com/jose-nino-4101](https://www.linkedin.com/in/jose-nino-4101/)
 
 
-
 # Main Projects
 
-- ## [Advanced Diffusion Model for Image Generation and Materials Design](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/README.md)
+- ## [Advanced diffusion model for image generation and materials design](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/README.md)
 
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/diffusion.png"> 
 
@@ -85,4 +84,7 @@ _Keywords: Pandas, A/B test, Design of experiments, t-test, Statistical signific
 
 <br>
 <br>
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at josens2101@gmail.com. 
+If you liked what you saw, and want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at josens2101@gmail.com. 
+
+- **Resume**: [See resume](https://github.com/josedavid2101/josedavid2101/blob/main/Jose_Resume.pdf)
+
