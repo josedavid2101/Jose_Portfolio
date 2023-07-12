@@ -8,7 +8,7 @@ Repository containing portfolio of data science, analytics and optimization proj
 
 # Main Projects
 
-- ## [Advanced Diffusion Model for Image Generation and Materials Design](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
+- ## [Advanced Diffusion Model for Image Generation and Materials Design](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/README.md)
 
 <img align="left" width="270" height="170" src="https://github.com/josedavid2101/Jose_Portfolio/blob/main/Images/diffusion.png"> 
 
@@ -17,7 +17,7 @@ Left Image: "A photo of a dog with a backpack riding a bike. It is wearing sungl
 Right image: "Image of the internal structure of a metal (nickel)"
 
 Both images were generated using state-of-the-art diffusion models. In this project, I implemented a diffusion model using Pytorch to generate images of the internal structure of different materials (like the right image!). These images are used to study materials design, reducing materials simulation costs by 92%.
-[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/DDPM_microstructures.ipynb)
+[View project](https://github.com/josedavid2101/Image_Synthesis_Diffusion_Model/blob/main/README.md)
 
 _Keywords: Deep learning, PyTorch, Generative models, Materials design_
 
