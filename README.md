@@ -1,4 +1,4 @@
-<h1 align="center"> Research science and Data Analytics Portfolio - Jose Nino</h1>
+<h1 align="center"> Research Science and Data Analytics Portfolio - Jose Nino</h1>
 
 Repository containing a portfolio of data science, analytics, and optimization projects completed by me for work, academic, self-learning, and hobby purposes. Presented in the form of Jupyter notebooks and Matlab files.
 
